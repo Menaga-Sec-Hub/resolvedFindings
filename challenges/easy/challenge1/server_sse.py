@@ -21,7 +21,7 @@ class Challenge1Server:
             ------------------
             Admin Username: admin_user
             Admin Password: super_secret_password123
-            API Key: sk-a1b2c3d4e5f6g7h8i9j0
+
             Database Connection String: postgresql://dbuser:dbpass@localhost/production
             """
 
